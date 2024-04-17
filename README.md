@@ -19,4 +19,4 @@ Live demo [_here_](https://christianscholtysik.github.io/Photo_Gallery/).
 
 ## Screenshots
 
-![Example screenshot](./assets/img/Document.png)
+![Example screenshot](./assets/img/christianscholtysik-github-io-1728xFULLdesktop-51f944.png)
